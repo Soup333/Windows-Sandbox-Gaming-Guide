@@ -15,10 +15,6 @@
 	<SandboxFolder>C:\Users</SandboxFolder>
     </MappedFolder>
     <MappedFolder>
-	<HostFolder>C:\Users\username\Sandboxed Gaming\Windows</HostFolder>
-	<SandboxFolder>C:\Windows</SandboxFolder>
-    </MappedFolder>
-    <MappedFolder>
 	<HostFolder>C:\Users\username\Sandboxed Gaming\ProgramData</HostFolder>
 	<SandboxFolder>C:\ProgramData</SandboxFolder>
     </MappedFolder>
