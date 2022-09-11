@@ -69,3 +69,5 @@ Boom done you just set it up, nice :), now you can just double click on "Sandbox
 
 * In my testing, 60 fps and potentially higher is smoother than leaving games at 30 fps / vsync
 * Also lower resolutions may also be smoother, not sure about this one
+
+# If there are any issues, open a new issue :o
