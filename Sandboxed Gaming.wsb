@@ -1,0 +1,26 @@
+<Configuration>
+  <VGpu>Enable</VGpu>
+  <Networking>Enable</Networking>
+  <MappedFolders>
+    <MappedFolder>
+      <HostFolder>C:\Users\username\Sandboxed Gaming\Program Files</HostFolder>
+      <SandboxFolder>C:\Program Files</SandboxFolder>
+    </MappedFolder>
+    <MappedFolder>
+      <HostFolder>C:\Users\username\Sandboxed Gaming\Program Files (x86)</HostFolder>
+	<SandboxFolder>C:\Program Files (x86)</SandboxFolder>
+    </MappedFolder>
+    <MappedFolder>
+	<HostFolder>C:\Users\username\Sandboxed Gaming\Users</HostFolder>
+	<SandboxFolder>C:\Users</SandboxFolder>
+    </MappedFolder>
+    <MappedFolder>
+	<HostFolder>C:\Users\username\Sandboxed Gaming\Windows</HostFolder>
+	<SandboxFolder>C:\Windows</SandboxFolder>
+    </MappedFolder>
+    <MappedFolder>
+	<HostFolder>C:\Users\username\Sandboxed Gaming\ProgramData</HostFolder>
+	<SandboxFolder>C:\ProgramData</SandboxFolder>
+    </MappedFolder>
+  </MappedFolders>
+</Configuration>

@@ -1,0 +1,13 @@
+<Configuration>
+  <VGpu>Enable</VGpu>
+  <Networking>Enable</Networking>
+  <MappedFolders>
+    <MappedFolder>
+      <HostFolder>C:\Users\username\Sandboxed Gaming</HostFolder>
+      <SandboxFolder>C:\COPY ProgramData, Program Files, Program Files (x86), Users, Windows, HERE</SandboxFolder>
+    </MappedFolder>
+  </MappedFolders>
+  <LogonCommand>
+    <Command>explorer.exe C:\</Command>
+  </LogonCommand>
+</Configuration>
