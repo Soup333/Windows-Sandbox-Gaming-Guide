@@ -58,7 +58,7 @@ After ALL the folders are succesfully copied to the top "COPY ProgramData, Progr
 
 Now, on your PC (not Windows Sandbox) copy the Sync.bat you downloaded and open This PC, Local Disk (C:), Users, then your username's folder, Sandboxed Gaming, Users, WDAGUtilityAccount, Desktop, and finally paste the Sync.bat inside the Desktop folder.
 
-Now, you can copy "Sandboxed Gaming.wsb" to your PC's Desktop for quick access to it.
+Now, you can move "Sandboxed Gaming.wsb" to your PC's Desktop for quick access to it.
 
 # Usage
 
