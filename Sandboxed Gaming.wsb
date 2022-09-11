@@ -11,12 +11,43 @@
 	<SandboxFolder>C:\Program Files (x86)</SandboxFolder>
     </MappedFolder>
     <MappedFolder>
-	<HostFolder>C:\Users\username\Sandboxed Gaming\Users</HostFolder>
-	<SandboxFolder>C:\Users</SandboxFolder>
-    </MappedFolder>
-    <MappedFolder>
 	<HostFolder>C:\Users\username\Sandboxed Gaming\ProgramData</HostFolder>
 	<SandboxFolder>C:\ProgramData</SandboxFolder>
     </MappedFolder>
+    <MappedFolder>
+	<HostFolder>C:\Users\username\Sandboxed Gaming\Users\WDAGUtilityAccount\AppData</HostFolder>
+	<SandboxFolder>C:\Users\WDAGUtilityAccount\SyncedAppData</SandboxFolder>
+    </MappedFolder>
+    <MappedFolder>
+	<HostFolder>C:\Users\username\Sandboxed Gaming\Users\WDAGUtilityAccount\Desktop</HostFolder>
+	<SandboxFolder>C:\Users\WDAGUtilityAccount\Desktop</SandboxFolder>
+    </MappedFolder>
+    <MappedFolder>
+	<HostFolder>C:\Users\username\Sandboxed Gaming\Users\WDAGUtilityAccount\Documents</HostFolder>
+	<SandboxFolder>C:\Users\WDAGUtilityAccount\Documents</SandboxFolder>
+    </MappedFolder>
+    <MappedFolder>
+	<HostFolder>C:\Users\username\Sandboxed Gaming\Users\WDAGUtilityAccount\Downloads</HostFolder>
+	<SandboxFolder>C:\Users\WDAGUtilityAccount\Downloads</SandboxFolder>
+    </MappedFolder>
+    <MappedFolder>
+	<HostFolder>C:\Users\username\Sandboxed Gaming\Users\WDAGUtilityAccount\Links</HostFolder>
+	<SandboxFolder>C:\Users\WDAGUtilityAccount\Links</SandboxFolder>
+    </MappedFolder>
+    <MappedFolder>
+	<HostFolder>C:\Users\username\Sandboxed Gaming\Users\WDAGUtilityAccount\Music</HostFolder>
+	<SandboxFolder>C:\Users\WDAGUtilityAccount\Music</SandboxFolder>
+    </MappedFolder>
+    <MappedFolder>
+	<HostFolder>C:\Users\username\Sandboxed Gaming\Users\WDAGUtilityAccount\Pictures</HostFolder>
+	<SandboxFolder>C:\Users\WDAGUtilityAccount\Pictures</SandboxFolder>
+    </MappedFolder>
+    <MappedFolder>
+	<HostFolder>C:\Users\username\Sandboxed Gaming\Users\WDAGUtilityAccount\Videos</HostFolder>
+	<SandboxFolder>C:\Users\WDAGUtilityAccount\Videos</SandboxFolder>
+    </MappedFolder>
   </MappedFolders>
+  <LogonCommand>
+    <Command>C:\Users\WDAGUtilityAccount\Desktop\Sync.bat</Command>
+  </LogonCommand>
 </Configuration>
