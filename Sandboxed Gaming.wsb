@@ -2,6 +2,8 @@
   <VGpu>Enable</VGpu>
   <Networking>Enable</Networking>
   <ProtectedClient>Enable</ProtectedClient>
+  <ClipboardRedirection>Disable</ClipboardRedirection>
+  <MemoryInMB>value</MemoryInMB>
   <MappedFolders>
     <MappedFolder>
       <HostFolder>C:\Users\username\Sandboxed Gaming\Program Files</HostFolder>
