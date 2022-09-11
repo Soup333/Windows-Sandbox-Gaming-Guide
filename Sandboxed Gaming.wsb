@@ -1,6 +1,7 @@
 <Configuration>
   <VGpu>Enable</VGpu>
   <Networking>Enable</Networking>
+  <ProtectedClient>Enable</ProtectedClient>
   <MappedFolders>
     <MappedFolder>
       <HostFolder>C:\Users\username\Sandboxed Gaming\Program Files</HostFolder>
