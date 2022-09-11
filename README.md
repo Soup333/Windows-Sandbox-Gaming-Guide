@@ -68,7 +68,8 @@ Boom done you just set it up, nice :), now you can just double click on "Sandbox
 # Tips
 
 * In my testing, 60 fps and potentially higher is smoother than leaving games at 30 fps / vsync
+* You should definetly increase the amount of RAM it gets by modifying "Sandboxed Gaming.wsb" MemoryInMB> value </MemoryInMB to something like 8000 or more MB if you have enough RAM. It greatly improves performance.
 * Also lower resolutions may also be smoother, not sure about this one
 * If your monitor has a BFI option, maybe called PureXP, ULMB, ELMB, Blur reduction, etc, then try turning it on. It may improve the clarity.
 
-# If there are any issues, open a new issue :o
+# If there are any issues or if you have a way of improving it, open a new issue :o
