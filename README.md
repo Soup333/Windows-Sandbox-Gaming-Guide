@@ -1,7 +1,7 @@
 # Windows-Sandbox-Gaming-Guide
-This is a guide to making a persistent Windows Sandbox and also using it for gaming
+This is a guide to making a mostly persistent Windows Sandbox and also using it for gaming :)
 
-Keep in mind that this still uses RDP which is outputting at around 30 fps. Though it seems running games at higher frame rates make it smoother and displays with BFI (Black Frame Insertion) improves the experience.
+Keep in mind that this still uses RDP which is limited to outputting at around 30 fps. Though it seems running games at higher frame rates makes it smoother and displays with BFI (Black Frame Insertion) improves the experience.
 
 # Prerequisites
 
@@ -24,8 +24,8 @@ Download both these .wsb Windows Sandbox config files
 # Setup
 
 After downloading run first.wsb and Sandboxed Gaming.wsb, open those files in notepad (right click, open with notepad) to edit them.
-You have to replace the parts that say "username" (no quotation marks) to your Windows User's username (this can be found by opening File Explorer and clicking on Local Disk (C:), Users, then finding your username's folder which you should recognize)
+You have to replace the parts that say "username" (no quotation marks) to your Windows User's username (this can be found by opening File Explorer and clicking on Local Disk (C:), Users, then finding your username's folder's name which you should recognize)
 
-After replacing those, you will have to open Local Disk (C:), Users, then your username's folder and creating a new folder in it called "Sandboxed Gaming" without quotes. The "Sandboxed Gaming.wsb" Windows Sandbox will have access to that folder and its contents but nothing else on your system.
+After replacing those, you will have to open Local Disk (C:), Users, then your username's folder and creating a new folder in it called "Sandboxed Gaming" without quotes. The "Sandboxed Gaming.wsb" Windows Sandbox and the programs running in it will have access to that folder and its contents and nothing else on your system.
 
 Now, click on 
