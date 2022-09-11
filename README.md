@@ -15,3 +15,17 @@ From Microsoft https://docs.microsoft.com/en-us/windows/security/threat-protecti
 * At least two CPU cores (four cores with hyperthreading recommended)
 
 Having Windows Sandbox enabled https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-sandbox/windows-sandbox-overview#installation
+
+Download both these .wsb Windows Sandbox config files
+
+* https://github.com/Soup333/Windows-Sandbox-Gaming-Guide/blob/main/run%20first.wsb
+* https://github.com/Soup333/Windows-Sandbox-Gaming-Guide/blob/main/Sandboxed%20Gaming.wsb
+
+# Setup
+
+After downloading run first.wsb and Sandboxed Gaming.wsb, open those files in notepad (right click, open with notepad) to edit them.
+You have to replace the parts that say "username" (no quotation marks) to your Windows User's username (this can be found by opening File Explorer and clicking on Local Disk (C:), Users, then finding your username's folder which you should recognize)
+
+After replacing those, you will have to open Local Disk (C:), Users, then your username's folder and creating a new folder in it called "Sandboxed Gaming" without quotes. The "Sandboxed Gaming.wsb" Windows Sandbox will have access to that folder and its contents but nothing else on your system.
+
+Now, click on 
