@@ -3,7 +3,7 @@
   <Networking>Enable</Networking>
   <MappedFolders>
     <MappedFolder>
-      <HostFolder>C:\Users\username\Sandboxed Gaming</HostFolder>
+      <HostFolder>C:\Users\user\Sandboxed Gaming</HostFolder>
       <SandboxFolder>C:\COPY ProgramData, Program Files, Program Files (x86), Users, HERE</SandboxFolder>
     </MappedFolder>
   </MappedFolders>
