@@ -62,6 +62,10 @@ Now, you can copy "Sandboxed Gaming.wsb" to your PC's Desktop for quick access t
 
 # Usage
 
-Boom done you just set it up, nice, alright now you can just double click on "Sandboxed Gaming.wsb" to open the sandboxed gaming Windows Sandbox and you should be able to get games supporting directx running. I for one installed steam on it and I only really tested 1 game but others should work since it uses Microsoft's WARP for running directx games
+Boom done you just set it up, nice :), now you can just double click on "Sandboxed Gaming.wsb" to open the sandboxed gaming Windows Sandbox and you should be able to get games supporting directx running. I for one installed steam on it and I only really tested 1 game but others should work since it uses Microsoft's WARP for running directx games
 * https://docs.microsoft.com/en-us/windows/win32/direct3darticles/directx-warp#what-is-warp 
 
+# Tips
+
+* In my testing, 60 fps and potentially higher is smoother than leaving games at 30 fps / vsync
+* Also lower resolutions may also be smoother, not sure about this one
