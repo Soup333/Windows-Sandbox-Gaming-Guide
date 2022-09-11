@@ -4,7 +4,7 @@
   <MappedFolders>
     <MappedFolder>
       <HostFolder>C:\Users\username\Sandboxed Gaming</HostFolder>
-      <SandboxFolder>C:\COPY ProgramData, Program Files, Program Files (x86), Users, Windows, HERE</SandboxFolder>
+      <SandboxFolder>C:\COPY ProgramData, Program Files, Program Files (x86), Users, HERE</SandboxFolder>
     </MappedFolder>
   </MappedFolders>
   <LogonCommand>
