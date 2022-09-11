@@ -69,5 +69,6 @@ Boom done you just set it up, nice :), now you can just double click on "Sandbox
 
 * In my testing, 60 fps and potentially higher is smoother than leaving games at 30 fps / vsync
 * Also lower resolutions may also be smoother, not sure about this one
+* If your monitor has a BFI option, maybe called PureXP, ULMB, ELMB, Blur reduction, etc, then try turning it on. It may improve the clarity.
 
 # If there are any issues, open a new issue :o
