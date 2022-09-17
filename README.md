@@ -1,3 +1,7 @@
+# WARNING
+
+This is basically obsolete and there is a far better and less hacky solution available here:
+https://github.com/jamesstringerparsec/Easy-GPU-PV
 # Windows-Sandbox-Gaming-Guide
 This is a guide to making a mostly persistent Windows Sandbox and also using it for gaming :)
 
